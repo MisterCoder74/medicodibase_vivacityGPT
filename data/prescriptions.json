@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1767089172,
+        "data": "2025-12-30",
+        "paziente_nome": "alessandro demontis",
+        "paziente_cf": "DMNLSN74A30I452",
+        "tipo": "Specialistica",
+        "esenzione": "Non esente",
+        "farmaco": "Toradol 50ml",
+        "quantita": "1",
+        "confezioni": "1",
+        "note_farmaco": "",
+        "diagnosi": "Infiammazione lombare con ricorrenti episodi dolorosi",
+        "medico_nome": "malgorzata michalak",
+        "medico_cf": "MCHMGR76L53I467Z",
+        "note_medico": "non ripetibile"
+    },
+    {
+        "id": 1767090573,
+        "data": "2025-12-30",
+        "paziente_nome": "Alessandro Demontis",
+        "paziente_cf": "DMNLSN74A30I452",
+        "tipo": "Farmaceutica",
+        "esenzione": "Non esente",
+        "farmaco": "Lodicand 16\/10",
+        "quantita": "2",
+        "confezioni": "2",
+        "note_farmaco": "non generico",
+        "diagnosi": "ipertensione grave",
+        "medico_nome": "Mario Bianchi",
+        "medico_cf": "BNCMRA70A01H501X",
+        "note_medico": "verificare valori pressione dopo fine ciclo 2 scatole"
+    }
+]
